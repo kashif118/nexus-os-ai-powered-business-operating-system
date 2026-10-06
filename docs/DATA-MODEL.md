@@ -1,4 +1,4 @@
-# NEXUS OS — E. Database Architecture
+~# NEXUS OS — E. Database Architecture
 
 PostgreSQL + Prisma. This document defines the entity map, relationships, keys, indexes,
 cascade behaviour and the tenant-isolation rules the schema must obey.
